@@ -1,5 +1,5 @@
 {
-  "name": "legal-generator",
+  "name": "gulp-legal-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
